@@ -1,1 +1,3 @@
-This is aFirst line of fike1.txt
+This is a First line of file1.txt 
+This is a Second line of file1.txt 
+This is a Third line of file1.txt 
